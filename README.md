@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Nashville-Davidson--Murfreesboro--Franklin Metro Area, TN, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 3 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `400583` |
 | Location | Nashville-Davidson--Murfreesboro--Franklin, TN |
 | Category | Restaurants |
-| Full dataset size | 44 records |
-| Free sample size | 4 records (9.09%) |
-| Last export | 2026-04-08T07:30:51.106379+00:00 |
+| Full dataset size | 33 records |
+| Free sample size | 3 records (9.09%) |
+| Last export | 2026-04-15T10:50:20.368548+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-nashville-davidson-murfreesboro-franklin-metro-area-sample-400583/releases/download/sample-latest/beamstation_400583_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
