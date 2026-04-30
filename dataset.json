@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the Nashville-Davidson--Murfreesboro--Franklin Metro Area, TN, US",
-  "export_job_id": "f3b1a261-3481-4795-88f4-810e004f93e0",
+  "export_job_id": "89666bf4-b54a-4510-82a2-d1273c870655",
   "github_org": "Beamstation-Datasets",
   "id_short": 400583,
   "location_name": "Nashville-Davidson--Murfreesboro--Franklin, TN",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/400583/beamstation_400583_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
   "sample_pct": 11.11,
   "sample_records": 1,
-  "sample_sha256": "4c63807783c2e00b56ad71a3cbcce02ccb1e09a4d10b01e2b24f006c2206da2e",
-  "sample_size_bytes": 21398,
+  "sample_sha256": "537d0793803466da00bfda269b7a8ede434a2b793ca4a356e41d59055de55280",
+  "sample_size_bytes": 20308,
   "total_records": 9,
-  "updated_at": "2026-04-22T18:53:04.513394+00:00"
+  "updated_at": "2026-04-29T18:04:00.329223+00:00"
 }
