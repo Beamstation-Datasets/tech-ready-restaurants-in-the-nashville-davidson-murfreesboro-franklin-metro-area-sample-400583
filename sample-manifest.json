@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f3b1a261-3481-4795-88f4-810e004f93e0",
+  "export_job_id": "89666bf4-b54a-4510-82a2-d1273c870655",
   "id_short": 400583,
-  "published_at": "2026-04-22T19:40:12Z",
+  "published_at": "2026-04-30T07:23:00Z",
   "repo_name": "tech-ready-restaurants-in-the-nashville-davidson-murfreesboro-franklin-metro-area-sample-400583",
   "sample_asset_name": "beamstation_400583_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/400583/beamstation_400583_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "4c63807783c2e00b56ad71a3cbcce02ccb1e09a4d10b01e2b24f006c2206da2e",
-  "sample_size_bytes": 21398,
+  "sample_sha256": "537d0793803466da00bfda269b7a8ede434a2b793ca4a356e41d59055de55280",
+  "sample_size_bytes": 20308,
   "total_records": 9
 }
